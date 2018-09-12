@@ -27,3 +27,9 @@ span,
 i {
   display: block;
 }
+
+.btn {
+  background-color: #fff;
+  color: #005e76;
+  border: 2px solid #8bc9d9;
+}
