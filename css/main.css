@@ -3,13 +3,14 @@ html {
   font-family: "Noto Sans", sans-serif;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
+li a {
+  color: #0084a6;
 }
 
 span,
 i {
   display: block;
+  color: #000;
 }
 
 i {
@@ -31,4 +32,9 @@ section {
   background-color: #8bc9d9;
   color: #005e76;
   border: 2px solid #005e76;
+}
+
+footer {
+  border-top: 2px solid #e2e2e2;
+  color: #e2e2e2;
 }
