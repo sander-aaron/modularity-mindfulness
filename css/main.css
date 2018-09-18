@@ -12,6 +12,15 @@ i {
   display: block;
 }
 
+i {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+section {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+}
+
 .btn {
   background-color: #fff;
   color: #005e76;
