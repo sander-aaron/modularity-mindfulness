@@ -7,6 +7,10 @@ li a {
   color: #0084a6;
 }
 
+li a:hover {
+  color: #005e76;
+}
+
 span,
 i {
   display: block;
@@ -36,5 +40,5 @@ section {
 
 footer {
   border-top: 2px solid #e2e2e2;
-  color: #e2e2e2;
+  color: #000;
 }
