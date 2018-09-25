@@ -4,11 +4,11 @@ html {
 }
 
 li a {
-  color: #0084a6;
+  color: #005e76;
 }
 
 li a:hover {
-  color: #005e76;
+  color: #8bc9d9;
 }
 
 span,
@@ -54,6 +54,14 @@ footer {
   color: #000;
 }
 
-@media only screen and (min-width: 60em){
++@media only screen and (min-width: 60em) {
+
+  h1 {
+    text-align: left;
+  }
+
+  nav {
+    text-align: right;
+  }
 
 }
